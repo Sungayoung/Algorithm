@@ -117,6 +117,9 @@ for select in selected:
     for s in select:
         tmp = move(tmp, s)
     tmp_max = max(map(max, tmp))
+    if tmp_max == 128:
+        print(select)
+        pprint.pprint(tmp)
     if tmp_max > max_num:
         max_num = tmp_max
     # print(select)
