@@ -9,7 +9,6 @@ def sugar_count(sugar):
             flag = True
             cur_cnt += i
             cur_cnt += (sugar - (i * 5)) // 3
-            # print(f'{cur_cnt} = 5kg {i}, 3kg {(sugar - (i * 5)) // 3}')
 
             if cur_cnt < min_cnt:   # 최소값 갱신
                 min_cnt = cur_cnt
@@ -24,6 +23,3 @@ def sugar_count(sugar):
 # 봉지는 3kg, 5kg 두가지만 있음
 sugar = int(input())
 print(sugar_count(sugar))
-
-
-# 이중 포문 이용해서 최소값일 때 바로 찾기.
