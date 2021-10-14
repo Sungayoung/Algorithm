@@ -9,6 +9,7 @@ def comb(idx, sel):
         selected[sel] = i
         comb(i + 1, sel + 1)
 
+
 size, M = map(int, input().split())
 
 # 0: 빈칸, 1: 집, 2: 치킨집
@@ -36,10 +37,9 @@ for candidate in candidates:
         for j in range(M):
             tmp_dis = min(tmp_dis, abs(h[0] - chicken[candidate[j]][0]) + abs(h[1] - chicken[candidate[j]][1]))
         tmp_min_dis += tmp_dis
-        if tmp_min_dis > min_dis:
+        if tmp_min_dis >= min_dis:
             break
     else:
         min_dis = min(min_dis, tmp_min_dis)
 
 print(min_dis)
-
