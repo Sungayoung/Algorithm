@@ -5,7 +5,6 @@ def move(idx, _mal):
     if idx == 10:
         if sum(selected) > max_score:
             max_score = sum(selected)
-            print(selected)
         return
 
     for i in range(4):
@@ -18,11 +17,16 @@ def move(idx, _mal):
             if c == 5:
                 r, c = 1, 0
             elif c == 10:
-                r, c = 3, 0
+                r, c = 3, 1
             elif c == 15:
                 r, c = 2, 0
+        elif r != 4:
+            if c > 4:
+                r, c = 4, c - 4
 
-        if (r, c) in _mal or (r != 0 and 4 <= c < len(board[r]) and board[r][c] in (25, 30, 35, 40)):
+        if (r, c) in _mal:
+            continue
+        if c < len(board[r]) and board[r][c] == 40 and ((0, 20) in _mal or (4, 3) in _mal):
             continue
 
         if c >= len(board[r]):
@@ -36,8 +40,8 @@ def move(idx, _mal):
         selected[idx] = 0
 
 
-board = [list(range(0, 41, 2)), [10, 13, 16, 19, 25, 30, 35, 40],
-         [30, 28, 27, 26, 25, 30, 35, 40], [20, 22, 24, 25, 30, 35, 40]]
+board = [list(range(0, 41, 2)), [10, 13, 16, 19, 25],
+         [30, 28, 27, 26, 25], [0, 20, 22, 24, 25], [25, 30, 35, 40]]
 dice = list(map(int, input().split()))
 selected = [0] * 10
 mal = [(0, 0)] * 4
