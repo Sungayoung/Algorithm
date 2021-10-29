@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65dcd017-db78-4099-8ae7-343a3a525d5e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/01_Baekjoon/02_silver/4_10828.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Baekjoon/05_diamond/4_18186.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_algorithm_study/211025/4_17140.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_algorithm_study/211025/4_17142.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/04_algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/04_algorithm.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Baekjoon/05_diamond/4_18185.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Baekjoon/05_diamond/4_18185.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
