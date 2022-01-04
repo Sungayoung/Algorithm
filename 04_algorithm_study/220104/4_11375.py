@@ -1,5 +1,4 @@
-# 축사배정
-
+# 열혈강호
 import sys
 
 sys.setrecursionlimit(10 ** 6)
@@ -21,9 +20,7 @@ def dfs(x):
     return False
 
 
-# N: 소의 수, M: 축사의 수
 N, M = map(int, input().split())
-
 graph = [list(map(minus_1, input().split()))[1:] for _ in range(N)]
 connected = [-1] * M
 ans = 0
