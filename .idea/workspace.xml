@@ -2,44 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65dcd017-db78-4099-8ae7-343a3a525d5e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/01_Baekjoon/01_bronze/2_15596.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Baekjoon/01_bronze/2_2577.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Baekjoon/01_bronze/3_1247.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Baekjoon/02_silver/2_11279.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Baekjoon/02_silver/2_1931.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Baekjoon/02_silver/4_10845.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Baekjoon/02_silver/4_10866.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Baekjoon/02_silver/4_1676.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Baekjoon/02_silver/5_11650.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Baekjoon/03_gold/2_1655.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Baekjoon/03_gold/5_10026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Baekjoon/03_gold/5_5430.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Baekjoon/04_platinum/5_3197.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_swexpert/2383_점심식사시간.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_algorithm_study/211020/5_21610.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_algorithm_study/211108/3_11066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_algorithm_study/211108/3_7579.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_algorithm_study/211108/5_12865.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_algorithm_study/211111/1_23290.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_algorithm_study/211111/1_23291.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_algorithm_study/211209/3_16637.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_algorithm_study/211209/5_17070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_algorithm_study/211213/3_10942.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_algorithm_study/211213/4_17404.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_algorithm_study/211215/2_17136.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_algorithm_study/211215/4_17135.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_algorithm_study/211221/1_1981.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_algorithm_study/211221/2_2931.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_algorithm_study/211221/5_2162.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_algorithm_study/220104/1_11505.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_algorithm_study/220104/2_2749.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_algorithm_study/220104/2_2933.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_algorithm_study/220104/4_11375.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_algorithm_study/220104/4_11657.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_algorithm_study/220104/5_10266.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_algorithm_study/220104/5_9376.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_programmers/네트워크.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_algorithm_study/220112/4_11404.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_algorithm_study/220112/5_11658.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_algorithm_study/220112/5_1637.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_algorithm_study/220112/5_7682.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_algorithm_study/220118/2_4195.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_algorithm_study/220118/4_12886.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_algorithm_study/220127/programmers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/04_algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/04_algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Baekjoon/04_platinum/4_2188.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Baekjoon/04_platinum/4_2188.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +37,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1zUKHvVFZyvp0qilPchMZnkxgXe" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -74,8 +50,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.5_10266">
-    <configuration name="1_11505" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.124나라의숫자">
+    <configuration name="양궁대회" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="04_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +59,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_algorithm_study/220104" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_algorithm_study/220203" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_algorithm_study/220104/1_11505.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_algorithm_study/220203/양궁대회.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2_2749" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="124나라의숫자" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="04_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_algorithm_study/220104" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_programmers" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_algorithm_study/220104/2_2749.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_programmers/124나라의숫자.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4_11375" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2_4195" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="04_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_algorithm_study/220104" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_algorithm_study/220118" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_algorithm_study/220104/4_11375.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_algorithm_study/220118/2_4195.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4_2188" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5_1637" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="04_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Baekjoon/04_platinum" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_algorithm_study/220112" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Baekjoon/04_platinum/4_2188.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_algorithm_study/220112/5_1637.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5_10266" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="오픈채팅방" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="04_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,11 +143,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_algorithm_study/220104" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_programmers" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_algorithm_study/220104/5_10266.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_programmers/오픈채팅방.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="programmers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="04_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_algorithm_study/220127" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_algorithm_study/220127/programmers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.5_10266" />
-        <item itemvalue="Python.2_2749" />
-        <item itemvalue="Python.4_2188" />
-        <item itemvalue="Python.1_11505" />
-        <item itemvalue="Python.4_11375" />
+        <item itemvalue="Python.124나라의숫자" />
+        <item itemvalue="Python.양궁대회" />
+        <item itemvalue="Python.programmers" />
+        <item itemvalue="Python.2_4195" />
+        <item itemvalue="Python.5_1637" />
       </list>
     </recent_temporary>
   </component>
@@ -211,6 +208,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
